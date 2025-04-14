@@ -1,0 +1,51 @@
+Complaint ID,Product,Issue Type,Complaint Text,Amount Involved,Customer Segment,Channel,Transaction Date,Priority
+C001,Savings Account,Product Delivery Delay,I opened a savings account last month and was promised a welcome kit and debit card within 7 days. Still haven’t received anything.,$0,Retail,Branch,3/15/25,Medium
+C002,Checking Account,Unfair Fee,I was charged a $25 overdraft fee even though I had enough balance. The transaction split and caused an unfair charge.,$25,Retail,Mobile App,3/20/25,High
+C003,Credit Card,Interest Charge Dispute,I raised a dispute on a $150 fraudulent charge but still got charged interest while under review.,$150,Retail,Call Center,3/18/25,High
+C004,ATM,ATM Malfunction,"Tried withdrawing $300 from the ATM, but the machine didn’t dispense cash even though my account was debited.",$300,Retail,ATM,3/21/25,Critical
+C005,Auto Loan,Duplicate Payment,My auto loan EMI was deducted twice this month. It caused my account to go into overdraft.,$450,Retail,Net Banking,3/10/25,High
+C006,Credit Card,Foreign Fee Error,I was wrongly charged a foreign transaction fee for a US-based website payment made in USD.,$12,Retail,Mobile App,3/22/25,Medium
+C007,Wire Transfer,Delayed Transfer,"Wire transfer of $5,000 to my daughter’s college is stuck in 'processing'. The tuition deadline is tomorrow.","$5,000",Affluent,Branch,3/25/25,Critical
+C008,Credit Card,Credit Limit Reduction,My credit card limit was suddenly reduced despite a perfect payment history. This is affecting my credit score.,N/A,Retail,Email,3/19/25,Medium
+C009,Mobile Deposit,App Glitch,I deposited a check using the mobile app. It showed success but was later reversed due to ‘image error’.,"$1,250",Retail,Mobile App,3/17/25,High
+C010,Checking Account,Maintenance Fee,"I was charged a $12 maintenance fee despite maintaining the required $1,000 balance.",$12,Senior Citizen,Net Banking,3/16/25,Medium
+C011,Debit Card,Card Not Received,I applied for a debit card two weeks ago and still haven’t received it. The tracking link doesn’t work either.,$0,Retail,Website,3/12/25,Medium
+C012,Credit Card,Late Payment Fee,I paid my credit card bill on time but still got charged a $35 late fee.,$35,Retail,Mobile App,3/15/25,High
+C013,Personal Loan,Interest Rate Discrepancy,I was promised a 10.5% rate on my loan but the disbursed amount is showing 12%. I need this corrected immediately.,"$15,000",Retail,Branch,3/5/25,High
+C014,ATM,Card Swallowed,My card got stuck in the ATM and no option was given to retrieve it.,$0,Retail,ATM,3/9/25,Medium
+C015,Checking Account,Unauthorized Withdrawal,There’s a $700 withdrawal I never made. The transaction was done at a different branch I’ve never visited.,$700,Retail,Unknown,3/13/25,Critical
+C016,Savings Account,Interest Not Credited,I didn’t receive monthly interest in my savings account for the last cycle.,$45,Senior Citizen,Mobile App,3/10/25,Medium
+C017,Credit Card,Blocked Without Notice,"My card was suddenly blocked while I was traveling abroad. No warning, no SMS.",$0,Affluent,Phone Banking,3/14/25,Critical
+C018,Mortgage,EMI Not Updated,I’ve already paid my March mortgage EMI but it's still showing as pending in your system.,"$1,800",Retail,Net Banking,3/1/25,High
+C019,Mobile Banking,Login Failure,I’m unable to log in to the mobile banking app for the past 3 days. Keeps saying “technical error.”,$0,Retail,Mobile App,3/11/25,Medium
+C020,Fixed Deposit,Premature Withdrawal Fee,I closed my FD early due to a family emergency but was charged a high penalty without clear explanation.,"$10,000",Senior Citizen,Branch,3/7/25,Medium
+C021,Credit Card,Reward Points Not Credited,I used my card for an eligible purchase but didn’t receive the promised reward points.,$0,Retail,Website,3/18/25,Low
+C022,Debit Card,Contactless Not Working,My new debit card doesn't support contactless even though I selected that feature while applying.,$0,Retail,Branch,3/8/25,Low
+C023,Loan,Prepayment Issue,I tried to prepay my personal loan but the system isn’t allowing partial payment. Why not?,"$2,000",Retail,Net Banking,3/10/25,Medium
+C024,Wire Transfer,Wrong Beneficiary Name,My international transfer got rejected due to a “name mismatch” even though I triple-checked the name.,"$3,500",Retail,Net Banking,3/17/25,High
+C025,ATM,Dispensed Less Cash,I requested $400 but only $300 came out of the ATM. The receipt says $400 was withdrawn.,$100,Retail,ATM,3/16/25,Critical
+C026,Credit Card,Cashback Not Received,I participated in the online grocery cashback offer but didn’t receive the cashback even after 30 days.,$25,Retail,Mobile App,3/6/25,Medium
+C027,Mutual Fund,Redemption Delay,I placed a redemption request for my mutual fund but the amount is still not credited to my account.,"$7,500",Affluent,Website,3/13/25,High
+C028,Credit Card,Card Not Activated,I received my credit card but cannot activate it through app or website. Support hasn’t helped so far.,$0,Retail,Mobile App,3/14/25,Medium
+C029,Loan,Document Misplacement,Your staff misplaced my loan documents. I’ve had to resubmit everything.,$0,Retail,Branch,3/10/25,Medium
+C030,Checking Account,Statement Error,My statement shows a duplicate transaction that I never made.,$350,Retail,Mobile App,3/12/25,High
+C031,Credit Card,Disputed Charge Denied,I disputed a fraudulent transaction but you closed the case saying it was authorized. I never approved that.,$220,Retail,Call Center,3/20/25,Critical
+C032,Debit Card,International Block,I cannot use my debit card abroad despite enabling international transactions in the app.,$0,Retail,Mobile App,3/21/25,High
+C033,Net Banking,Access Revoked,Suddenly my net banking access was revoked without notice.,$0,Retail,Net Banking,3/8/25,Medium
+C034,Personal Loan,Tenure Change Without Consent,My loan tenure was extended without my approval. I never agreed to the revised terms.,N/A,Retail,Phone Banking,3/19/25,High
+C035,ATM,Fee Without Usage,I was charged $2.50 ATM usage fee even though I never used the machine.,$2.50,Retail,ATM,3/13/25,Medium
+C036,Credit Card,EMI Conversion Failed,I tried to convert my purchase to EMI but the option disappeared after the transaction. Now I’m being charged full interest.,"$1,100",Retail,Mobile App,3/11/25,High
+C037,Loan,CIBIL Report Error,Your bank is showing my loan as unpaid in CIBIL even though I closed it last year.,N/A,Retail,Website,3/17/25,Critical
+C038,Investment Account,Dividend Not Credited,I hold shares in my investment account but haven’t received the dividend payout that was due last week.,$260,Affluent,Website,3/9/25,Medium
+C039,Mobile Banking,Bill Pay Glitch,"I paid my electricity bill through the app, but it was not credited to the utility.",$190,Retail,Mobile App,3/6/25,High
+C040,Credit Card,Card Stolen,My card was stolen and multiple purchases were made before I could block it. I want a full investigation.,$980,Retail,Call Center,3/21/25,Critical
+C041,Fixed Deposit,Auto-Renewal Issue,"I had disabled auto-renewal on my FD, but it was still renewed automatically.","$5,000",Senior Citizen,Net Banking,3/8/25,Medium
+C042,Debit Card,PIN Reset Not Working,I tried resetting my debit card PIN multiple times but the system keeps throwing an error.,$0,Retail,Website,3/7/25,Medium
+C043,Checking Account,Mobile Check Not Clear,I deposited a check using the app. It’s been 5 days and the amount still hasn't cleared.,$620,Retail,Mobile App,3/10/25,High
+C044,Mortgage,Property Insurance Missing,My property insurance premium was not included in this month’s mortgage statement.,$380,Affluent,Email,3/15/25,Medium
+C045,Net Banking,Incorrect OTP Sent,The OTP I receive for transactions is always incorrect or expired. I can’t complete any payments.,$0,Retail,Net Banking,3/16/25,High
+C046,Credit Card,Statement Not Generated,This month’s card statement is missing. I cannot make payments without the bill.,$0,Retail,Email,3/20/25,Medium
+C047,Auto Loan,Insurance Add-on Dispute,I was charged for loan insurance add-on I never opted for.,$180,Retail,Branch,3/18/25,High
+C048,Savings Account,Account Closure Delay,I submitted all documents to close my savings account two weeks ago. It’s still open and active.,$0,Retail,Branch,3/4/25,Medium
+C049,Debit Card,Daily Limit Error,I was blocked from using my debit card even though I hadn’t reached the daily transaction limit.,$0,Retail,Mobile App,3/11/25,Medium
+C050,Investment Account,Capital Gain Mismatch,My tax report from the investment account shows incorrect capital gains.,"$1,450",Affluent,Website,3/13/25,High

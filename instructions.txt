@@ -1,0 +1,1 @@
+export GOOGLE_APPLICATION_CREDENTIALS="/Users/kshitijpatil/Documents/Codes/Coding/semantic_search/sodium-pathway-456207-s4-19c502a61087.json"
