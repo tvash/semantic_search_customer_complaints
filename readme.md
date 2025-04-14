@@ -8,7 +8,7 @@ Created By: Kshitij Patil (Tij)
 
 This project is at initial stages and would require additional changes to make it production ready. This POC made using the langchain cookbook tries various optimization methods for RAG. It is being treated as sandbox to create and validate different optimization on Decomposition, Retrival, Routing and other opimization techinique. 
 
-(Heavy influenced by LLM and langchain cookbook sources in addition to other sources)
+(Heavy influenced by LLM and langchain cookbook in addition to other sources)
 
 # 🧠 LLM-Based Topic Modeling for Customer Complaints
 
@@ -55,5 +55,10 @@ C002,"Overdraft fee charged despite sufficient balance."
 ### How does the data look like Raw compared to how the text is summarized based on the search context addtional context can be provided to have streamlined results based on the requirement of the solution
 
 ![Input Raw](images/raw_complaints.png)
-![Output LLM](images/categorize.png)
+[raw_complaints](https://github.com/user-attachments/assets/ac270a60-8ef6-4db3-8f95-d18868a85fec)
 
+
+![Output LLM](images/categorize.png)![raw_complain
+
+![categorize](https://github.com/user-attachments/assets/9e97fbb0-9465-407a-925f-fc6442ff5e2d)
+ts](https://github.com/user-attachments/assets/ac270a60-8ef6-4db3-8f95-d18868a85fec)
