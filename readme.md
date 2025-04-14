@@ -10,6 +10,10 @@ This project is at initial stages and would require additional changes to make i
 
 (Heavy influenced by LLM and langchain cookbook in addition to other sources)
 
+ 📢 Disclaimer
+
+The customer complaints data utilized in this project is entirely fictional and has been generated solely for the purpose of demonstrating and testing the functionalities of this application. Any resemblance to actual persons, living or dead, or actual events is purely coincidental. This data should not be interpreted as real customer feedback or used for any real-world analysis.​
+
 # 🧠 LLM-Based Topic Modeling for Customer Complaints
 
 This project uses a Large Language Model (LLM) to perform topic modeling on customer complaints. It supports loading data from a **CSV file** or a **database**, and classifies each complaint into one or more predefined topics using OpenAI's GPT model with LangChain.
@@ -55,10 +59,5 @@ C002,"Overdraft fee charged despite sufficient balance."
 ### How does the data look like Raw compared to how the text is summarized based on the search context addtional context can be provided to have streamlined results based on the requirement of the solution
 
 ![Input Raw](images/raw_complaints.png)
-[raw_complaints](https://github.com/user-attachments/assets/ac270a60-8ef6-4db3-8f95-d18868a85fec)
 
-
-![Output LLM](images/categorize.png)![raw_complain
-
-![categorize](https://github.com/user-attachments/assets/9e97fbb0-9465-407a-925f-fc6442ff5e2d)
-ts](https://github.com/user-attachments/assets/ac270a60-8ef6-4db3-8f95-d18868a85fec)
+![Output LLM](images/categorize.png)
